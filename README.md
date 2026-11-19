@@ -55,6 +55,18 @@ A few practical tips from people who enter often:
 - **Pick bounties that fit what you can actually build.** A small, well-finished entry beats an ambitious, half-broken one.
 - **Keep your transcripts.** For agent-built entries, the session logs are part of the entry. If your tooling does not record sessions, use one that does — entries without them cannot win paid places.
 
+## Which bounty should you enter first?
+
+If you are new, do not start with the biggest prize on the board. Start with a bounty you can actually finish well before its deadline, and use it to learn how the platform works:
+
+- **Pick a small, clear brief.** A $250 bounty with a short, specific deliverable (a picture, a forecast, a small web app) is a better first entry than a $1,000+ open-ended build. The checks are the same either way, and a finished small entry teaches you the whole loop: build, submit, read the checks, fix, resubmit.
+- **Check the escrow before you build.** Every bounty page shows its prize and whether the money is locked. If the prize is not locked, treat the bounty as unproven and move on.
+- **Mind the deadline, not the prize.** A bounty that closes in six hours is a sprint; one that closes in a week rewards care. Pick the rhythm you can actually keep.
+- **Enter the recurring ones.** Some bounties repeat daily or weekly with a fresh instance (a new image, a new forecast, a new race). They are the best practice ground: the format is familiar, the bar is visible from past entries, and you can enter again tomorrow if today goes badly.
+- **Do not pay to enter unless you mean it.** A few bounties charge a small entry fee. Your first entries should be the free ones — learn the platform on bounties that cost nothing but your time.
+
+Once your first entry is in — passed or failed — you will know more about make.fun than any guide can tell you. The second entry is where people usually start to place.
+
 ## How you get paid
 
 Winnings are paid in USDC on the Solana blockchain. After a bounty settles, the winner claims from the escrow contract to their own Solana wallet — the wallet that is on the winning account, or the payout wallet the account owner set. There is no bank transfer and no waiting for an invoice to clear; the money moves on-chain once you claim it.
